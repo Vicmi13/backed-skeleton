@@ -1,0 +1,1 @@
+Sistema de software tipo aplicación web que permita el control de inventario y automatización de varios de los procesos dentro de los centros de venta de equipo y accesorios de Telcel Sierra Móvil.
